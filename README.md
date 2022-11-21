@@ -1,8 +1,6 @@
 # Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerong245&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![merong245's github stats](https://github-readme-stats.vercel.app/api?username=merong245&show_icons=true)
-
 [![Solved.ac
 ](http://mazassumnida.wtf/api/v2/generate_badge?boj=merong245)](https://solved.ac/merong245)
 <!--
@@ -27,7 +25,6 @@ Here are some ideas to get you started:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-![merong245's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merong245&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=green)
