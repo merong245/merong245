@@ -3,6 +3,16 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=merong245)](https://solved.ac/merong245)
 
+# Experience
+광운대학교 졸업 (2017.03 ~ 2023.02)  
+삼성청년SW아카데미 1학기 수료(2023.01 ~ 2023.06)  
+현대오토에버 인턴 (2023.07 ~ 2023.08)  
+
+# Project
+게이미피케이션을 이용한 온라인 독서실  
+폐기상품의 재탄생 Re:born  
+루미너스  
+ 
 # Skills
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
