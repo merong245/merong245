@@ -10,9 +10,25 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
 현대오토에버 인턴 (2023.07 ~ 2023.08)  
 
 # Project
-게이미피케이션을 이용한 온라인 독서실  
-폐기상품의 재탄생 Re:born  
-루미너스  
+1. 게이미피케이션을 이용한 온라인 독서실 (2022.01 ~ 2022.05)
+   - BE : Springboot, JPA, MySQL
+   - FE : ReactJS
+   - COCO-SSD 오픈소스를 이용한 객체인식
+2. 폐기 상품의 재탄생 Re:born 앱 (2023.01 ~ 2023.04)
+   - BE : Springboot, MySQL
+   - FE : Swift
+   - IOS 앱런칭 완료
+3. 별과 함께하는 여행 Luminous (2023.05 ~ 2023.05)
+   - BE : Springboot, JPA, MySQL
+   - FE : VueJS
+   - 관광, 날씨, KAKAO, ChatGPT 등 다양한 Open API활용
+   - 별자리(황도12궁), 천문대 API 정보 수집 및 API 재가공 작업
+4. 공수관리 시스템 PoC (2023.07 ~ 2023.08)
+   - BE : Springboot, JPA, MySQL
+   - FE : ReactJS
+   - Filter 커스텀을 통한 XSS 방어기법 적용
+   - 파일 암호화 적용
+   
  
 # Skills
 ### Language
