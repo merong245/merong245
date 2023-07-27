@@ -26,6 +26,7 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
 4. 공수관리 시스템 PoC (2023.07 ~ 2023.08)
    - BE : Springboot, JPA, Maria
    - FE : ReactJS
+   - Excel 파싱을 위한 apache POI 라이브러리 활용
    - Filter 커스텀을 통한 XSS 방어기법 적용
    - 파일 암호화 적용
    
