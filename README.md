@@ -4,7 +4,7 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=merong245)](https://solved.ac/merong245)
 
 # Experience
-광운대학교 졸업 (2017.03 ~ 2023.02)  
+광운대학교 컴퓨터정보공학부 졸업 (2017.03 ~ 2023.02)  
 UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)  
 삼성청년SW아카데미 1학기 수료(2023.01 ~ 2023.06)  
 현대오토에버 인턴 (2023.07 ~ 2023.08)  
