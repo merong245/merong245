@@ -24,7 +24,7 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
    - 관광, 날씨, KAKAO, ChatGPT 등 다양한 Open API활용
    - 별자리(황도12궁), 천문대 API 정보 수집 및 API 재가공 작업
 4. 공수관리 시스템 PoC (2023.07 ~ 2023.08)
-   - BE : Springboot, JPA, Maria
+   - BE : Springboot, JPA, MariaDB
    - FE : ReactJS
    - Excel 파싱을 위한 apache POI 라이브러리 활용
    - Filter 커스텀을 통한 XSS 방어기법 적용
