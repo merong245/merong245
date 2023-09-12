@@ -14,7 +14,7 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
 1. 게이미피케이션을 이용한 온라인 독서실 (2022.01 ~ 2022.05)
    - BE : Springboot, JPA, MySQL
    - FE : ReactJS
-   - COCO-SSD 오픈소스를 이용한 객체인식
+   - COCO-SSD 오픈소스를 이용한 객체인식 적용
 2. 폐기 상품의 재탄생 Re:born 앱 (2023.01 ~ 2023.04)
    - BE : Springboot, MySQL
    - FE : Swift
