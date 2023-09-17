@@ -22,7 +22,7 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
 3. 별과 함께하는 여행 Luminous (2023.05 ~ 2023.05)
    - BE : Springboot, JPA, MySQL
    - FE : VueJS
-   - 관광, 날씨, KAKAO, ChatGPT 등 다양한 Open API활용
+   - 관광, 날씨, KAKAO, ChatGPT 등 다양한 Open API 활용
    - 별자리(황도12궁), 천문대 API 정보 수집 및 API 재가공 작업
 4. 공수관리 시스템 PoC (2023.07 ~ 2023.08)
    - BE : Springboot, JPA, MariaDB
