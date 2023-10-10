@@ -31,7 +31,12 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
    - Filter 커스텀을 통한 XSS 방어기법 적용
    - 파일 암호화 적용
    
- 
+# Achievement
+1. 삼성청년SW아카데미 1학기 프로젝트 최우수상 (2023.06.02)
+2. 정보처리기사 (2023.06.09)
+3. SQLD (2023.07.07)
+4. 삼성SDS SW역량 Pro 등급 취득 (2023.08.25)
+
 # Skills
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -48,6 +53,5 @@ UMC 앱런칭 동아리 챌린저 (2022.11 ~ 2023.04)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=purple)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=merong245)
 #  Contacts :mailbox_with_mail:
 hol22mol22@gmail.com
